@@ -71,7 +71,7 @@ def render(start, end, user, repos, mobile):
     assert set(days) == {start + timedelta(days=i) for i in range(365)}
     original = sorted((r for r in repos if not r["fork"]),
                       key=lambda r: (-r["stargazers_count"], r["name"].lower()))
-    stats = [(len(repos), "公开仓库"), (sum(r["stargazers_count"] for r in original), "非 Fork 仓库 Stars"),
+    stats = [(sum(r["stargazers_count"] > 0 for r in original), "获星项目"), (sum(r["stargazers_count"] for r in original), "非 Fork 仓库 Stars"),
              (user["followers"]["totalCount"], "关注者"), (sum(days.values()), "近一年贡献")]
     cols = 2 if mobile else 4
     for index, (value, label) in enumerate(stats):
