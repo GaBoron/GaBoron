@@ -7,7 +7,7 @@
   <text x="408" y="144" fill="#31251c" font-size="28" font-weight="400">非 Fork 仓库 Stars</text>
   <text x="768" y="97" fill="#31251c" font-size="78" font-weight="700">14</text>
   <text x="768" y="144" fill="#31251c" font-size="28" font-weight="400">关注者</text>
-  <text x="1128" y="97" fill="#31251c" font-size="78" font-weight="700">1,641</text>
+  <text x="1128" y="97" fill="#31251c" font-size="78" font-weight="700">1,642</text>
   <text x="1128" y="144" fill="#31251c" font-size="28" font-weight="400">近一年贡献</text>
   <rect x="48" y="187" width="1344" height="2" fill="#31251c" rx="0" />
   <text x="48" y="244" fill="#31251c" font-size="36" font-weight="700">贡献日历</text>
@@ -238,23 +238,23 @@
   <rect x="852" y="336" width="19" height="19" fill="#e9dfc4" rx="3" />
   <rect x="852" y="360" width="19" height="19" fill="#e9dfc4" rx="3" />
   <text x="852" y="301" fill="#31251c" font-size="20" font-weight="400">7月</text>
-  <rect x="852" y="384" width="19" height="19" fill="#e9dfc4" rx="3" />
-  <rect x="852" y="408" width="19" height="19" fill="#dea047" rx="3" />
+  <rect x="852" y="384" width="19" height="19" fill="#f3ca78" rx="3" />
+  <rect x="852" y="408" width="19" height="19" fill="#f3ca78" rx="3" />
   <rect x="852" y="432" width="19" height="19" fill="#e9dfc4" rx="3" />
   <rect x="852" y="456" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="876" y="312" width="19" height="19" fill="#854623" rx="3" />
   <rect x="876" y="336" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="876" y="360" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="876" y="384" width="19" height="19" fill="#dea047" rx="3" />
-  <rect x="876" y="408" width="19" height="19" fill="#e9dfc4" rx="3" />
-  <rect x="876" y="432" width="19" height="19" fill="#dea047" rx="3" />
+  <rect x="876" y="408" width="19" height="19" fill="#f3ca78" rx="3" />
+  <rect x="876" y="432" width="19" height="19" fill="#f3ca78" rx="3" />
   <rect x="876" y="456" width="19" height="19" fill="#e9dfc4" rx="3" />
   <rect x="900" y="312" width="19" height="19" fill="#e9dfc4" rx="3" />
   <rect x="900" y="336" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="900" y="360" width="19" height="19" fill="#dea047" rx="3" />
   <rect x="900" y="384" width="19" height="19" fill="#dea047" rx="3" />
   <rect x="900" y="408" width="19" height="19" fill="#b96e31" rx="3" />
-  <rect x="900" y="432" width="19" height="19" fill="#dea047" rx="3" />
+  <rect x="900" y="432" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="900" y="456" width="19" height="19" fill="#b96e31" rx="3" />
   <rect x="924" y="312" width="19" height="19" fill="#dea047" rx="3" />
   <rect x="924" y="336" width="19" height="19" fill="#f3ca78" rx="3" />
@@ -271,7 +271,7 @@
   <rect x="948" y="432" width="19" height="19" fill="#dea047" rx="3" />
   <text x="948" y="301" fill="#31251c" font-size="20" font-weight="400">8月</text>
   <rect x="948" y="456" width="19" height="19" fill="#e9dfc4" rx="3" />
-  <rect x="972" y="312" width="19" height="19" fill="#e9dfc4" rx="3" />
+  <rect x="972" y="312" width="19" height="19" fill="#f3ca78" rx="3" />
   <rect x="972" y="336" width="19" height="19" fill="#dea047" rx="3" />
   <rect x="972" y="360" width="19" height="19" fill="#f3ca78" rx="3" />
   <rect x="972" y="384" width="19" height="19" fill="#b96e31" rx="3" />
@@ -392,7 +392,7 @@
   <text x="48" y="352" fill="#31251c" font-size="19" font-weight="400">周一</text>
   <text x="48" y="400" fill="#31251c" font-size="19" font-weight="400">周三</text>
   <text x="48" y="448" fill="#31251c" font-size="19" font-weight="400">周五</text>
-  <text x="48" y="525" fill="#31251c" font-size="25" font-weight="400">活跃 137 天   ·   单日最高 65 次</text>
+  <text x="48" y="525" fill="#31251c" font-size="25" font-weight="400">活跃 140 天   ·   单日最高 65 次</text>
   <text x="1196" y="525" fill="#31251c" font-size="20" font-weight="400">少</text>
   <rect x="1227" y="508" width="18" height="18" fill="#e9dfc4" rx="3" />
   <rect x="1252" y="508" width="18" height="18" fill="#f3ca78" rx="3" />
@@ -415,23 +415,23 @@
   <rect x="550" y="783" width="76.86746987951807" height="17" fill="#ff682c" rx="0" />
   <text x="716" y="801" fill="#31251c" font-size="26" font-weight="700">44</text>
   <text x="838" y="603" fill="#31251c" font-size="32" font-weight="700">近一年贡献构成</text>
-  <rect x="838" y="629" width="342.7714808043876" height="16" fill="#c0531e" rx="0" />
+  <rect x="838" y="629" width="342.89890377588307" height="16" fill="#c0531e" rx="0" />
   <rect x="838" y="682" width="13" height="13" fill="#c0531e" rx="0" />
   <text x="860" y="697" fill="#31251c" font-size="23" font-weight="400">代码提交</text>
-  <text x="992" y="697" fill="#31251c" font-size="24" font-weight="700">1,019</text>
-  <rect x="1180.7714808043875" y="629" width="132.53382084095065" height="16" fill="#f19a39" rx="0" />
+  <text x="992" y="697" fill="#31251c" font-size="24" font-weight="700">1,020</text>
+  <rect x="1180.8989037758831" y="629" width="132.4531059683313" height="16" fill="#f19a39" rx="0" />
   <rect x="1114" y="682" width="13" height="13" fill="#f19a39" rx="0" />
   <text x="1136" y="697" fill="#31251c" font-size="23" font-weight="400">代码审查</text>
   <text x="1268" y="697" fill="#31251c" font-size="24" font-weight="700">394</text>
-  <rect x="1313.3053016453382" y="629" width="58.530164533820844" height="16" fill="#e8bf46" rx="0" />
+  <rect x="1313.3520097442142" y="629" width="58.494518879415345" height="16" fill="#e8bf46" rx="0" />
   <rect x="838" y="729" width="13" height="13" fill="#e8bf46" rx="0" />
   <text x="860" y="744" fill="#31251c" font-size="23" font-weight="400">发起 Issue</text>
   <text x="992" y="744" fill="#31251c" font-size="24" font-weight="700">174</text>
-  <rect x="1371.835466179159" y="629" width="12.446069469835466" height="16" fill="#92664b" rx="0" />
+  <rect x="1371.8465286236296" y="629" width="12.43848964677223" height="16" fill="#92664b" rx="0" />
   <rect x="1114" y="729" width="13" height="13" fill="#92664b" rx="0" />
   <text x="1136" y="744" fill="#31251c" font-size="23" font-weight="400">发起 PR</text>
   <text x="1268" y="744" fill="#31251c" font-size="24" font-weight="700">37</text>
-  <rect x="1384.2815356489946" y="629" width="5.718464351005484" height="16" fill="#503b31" rx="0" />
+  <rect x="1384.285018270402" y="629" width="5.714981729598051" height="16" fill="#503b31" rx="0" />
   <rect x="838" y="776" width="13" height="13" fill="#503b31" rx="0" />
   <text x="860" y="791" fill="#31251c" font-size="23" font-weight="400">创建仓库</text>
   <text x="992" y="791" fill="#31251c" font-size="24" font-weight="700">17</text>
